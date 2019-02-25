@@ -3,3 +3,6 @@
 
 #parrot(x)
   return x
+end
+
+puts parrot("hi")
