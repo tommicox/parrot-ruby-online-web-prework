@@ -6,4 +6,4 @@ def parrot(phrase)
 end
 
 parrot("Squak!")
-parrot("Polly want a cracker?")
+puts parrot("Polly want a cracker?")
