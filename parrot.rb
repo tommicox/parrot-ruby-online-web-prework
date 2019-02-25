@@ -3,9 +3,6 @@
 # and returns the phrase
 
 def parrot(phrase)
-  puts "Polly wants a cracker"
+  puts phrase
   return phrase
 end
-
-puts parrot("Squak!")
-puts parrot("Polly want a cracker?")
